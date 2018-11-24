@@ -5,3 +5,4 @@ This repository contains two small Maven projects intended as examples of how a 
 Added Poll SCM for 3 mts cmd:H/03 * * * *
 I have added one line to this file to test the auto build - Vinu P.
 One more line.
+Hook invoked after commit, Enjoy!
